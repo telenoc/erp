@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TeleNoc_ERP_Shasha", ".", "{94D41EE7-6E30-4D9F-9D3F-7B9C08059E1E}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TeleNoc_ERP_Shasha"
+		Debug.AspNetCompiler.PhysicalPath = "..\TeleNoc_ERP_Shasha\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TeleNoc_ERP_Shasha\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TeleNoc_ERP_Shasha"
+		Release.AspNetCompiler.PhysicalPath = "..\TeleNoc_ERP_Shasha\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TeleNoc_ERP_Shasha\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49731"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94D41EE7-6E30-4D9F-9D3F-7B9C08059E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94D41EE7-6E30-4D9F-9D3F-7B9C08059E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

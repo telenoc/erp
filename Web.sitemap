@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="~/Pages/Default.aspx" roles="*" title="Home">
+    <!-- _Commons -->
+    <siteMapNode title='Change Password' url='~\Pages\_Commons\ChangePassword.aspx' />
+    <siteMapNode title='Contacts list' url='~\Pages\_Commons\Contactslist.aspx' />
+    <siteMapNode title='Login' url='~\Pages\_Commons\Login.aspx' />
+    <!-- _Commons End -->
+    <!-- _Admin -->
+    <siteMapNode title='Admin' url='~\Pages\_Admin\index.aspx'>
+
+    </siteMapNode>
+
+
+    <!-- _Employees -->
+    <siteMapNode title='Employee' url='~\Pages\_Employees\EmployeesHome.aspx'>
+
+      <siteMapNode title='Employee Air Ticket' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_AirTicket.aspx' />
+      <siteMapNode title='Employee Basic Salary' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_BasicSalary.aspx' />
+      <siteMapNode title='Employee Benefits' url='~\Pages\_Employees\Employee_Benefits\Employees_ManageBenefits.aspx' />
+      <siteMapNode title='Employee Bonus Salary' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_BonusSalary.aspx' />
+      <siteMapNode title='Employee House Benefit' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_ResidenceAllowance.aspx' />
+      <siteMapNode title='Employee Mobile Allowance' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_MobileAllowance.aspx' />
+      <siteMapNode title='Employee Transportation Allowance' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_TransportAllowance.aspx' />
+      <siteMapNode title='Employee Transport Benefit' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_TransportBenefits.aspx' />
+      <siteMapNode title='Employee Transport Facility' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_TransportVehicle.aspx' />
+      <siteMapNode title='Employee Work Allowance' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_WorkAllowance.aspx' />
+      <siteMapNode title='Employee Rewards' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_Rewards.aspx' />
+      <siteMapNode title='Employee Package Salary' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_PackagSalary.aspx' />
+      <siteMapNode title='Employee Location Allowance' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_LocationAllowance.aspx' />
+      <siteMapNode title='Employee Food Allowance' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_FoodAllowance.aspx' />
+      <siteMapNode title='Employee Extra Bonus' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_ExtraBonus.aspx' />
+      <siteMapNode title='Employee Deserved Payments' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_DeservedPayments.aspx' />
+      <siteMapNode title='Employee Dependent Benefits' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_Dependents.aspx' />
+      <siteMapNode title='Employee Manage Extra Bonus' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_AddExtraBonus.aspx' />
+      <siteMapNode title='Employee Insurance' url='~\Pages\_Employees\Employee_Benefits\Employees_Benefits_MedicalAllowance.aspx' />
+
+      <siteMapNode title='Employee Detail' url='~\Pages\_Employees\Employees_Reports\Employees_ViewDetails.aspx' />
+      <siteMapNode title='Employee Search' url='~\Pages\_Employees\Employees_Reports\Employees_Search.aspx' />
+      <siteMapNode title='Employee Bonus Histoy' url='~\Pages\_Employees\Employees_Reports\Employees_Benefits_ExtraBonusHistory.aspx' />
+      <siteMapNode title='Employee Renewals and Benefits Histoy' url='~\Pages\_Employees\Employees_Reports\Employees_BenefitsRenewals_History.aspx' />
+      <siteMapNode title='Employee Graphical View' url='~\Pages\_Employees\Employees_Reports\Employees_Departmentwise_GraphicalReport.aspx' />
+      <siteMapNode title='Employee Reports' url='~\Pages\_Employees\Employees_Reports\Employees_DepartmentWise_Report.aspx' />
+      <siteMapNode title='Employee Details' url='~\Pages\_Employees\Employees_Reports\Employees_Departmentwise_ReportDetails.aspx' />
+      <siteMapNode title='Employee Salary Details' url='~\Pages\_Employees\Employees_Reports\Employees_Departmentwise_SalaryReportDetails.aspx' />
+      <siteMapNode title='Employee Dependents' url='~\Pages\_Employees\Employees_Reports\Employees_DependentsInfo.aspx' />
+      <siteMapNode title='Employee Documents' url='~\Pages\_Employees\Employees_Reports\Employees_Documents_View.aspx' />
+      <siteMapNode title='Employee Alerts' url='~\Pages\_Employees\Employees_Reports\Employees_Renewals_Alerts.aspx' />
+      <siteMapNode title='Employee Movement History' url='~\Pages\_Employees\Employees_Reports\Employees_Renewals_MovementHistoryDetails.aspx' />
+      <siteMapNode title='Employee Movement History' url='~\Pages\_Employees\Employees_Reports\Empoyees_Movements_History.aspx' />
+
+
+      <siteMapNode title='Register Employee' url='~\Pages\_Employees\Employees_Management\Employees_Registration.aspx' />
+      <siteMapNode title='Employee Deactivate' url='~\Pages\_Employees\Employees_Management\Employees_Deactivate.aspx' />
+      <siteMapNode title='Employee Driving License' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_DrivingLicense.aspx' />
+      <siteMapNode title='Employee HR Management' url='~\Pages\_Employees\Employees_Management\Employees_Management.aspx' />
+      <siteMapNode title='Employee Iqama' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Iqama.aspx' />
+      <siteMapNode title='Employee Passport' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Passport.aspx' />
+      <siteMapNode title='Employee Renewals' url='~\Pages\_Employees\Employees_Management\Employees_ManageRenewals.aspx' />
+      <siteMapNode title='Employee Attachments' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Documents.aspx' />
+      <siteMapNode title='Modify Employee' url='~\Pages\_Employees\Employees_Management\Employees_Modify.aspx' />
+      <siteMapNode title='Employee Leaves' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Leaves.aspx' />
+      <siteMapNode title='Employee Levels' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Levels.aspx' />
+      <siteMapNode title='Employee Movements' url='~\Pages\_Employees\Employees_Management\Employees_Movements.aspx' />
+      <siteMapNode title='Employee Contracts' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Contract.aspx' />
+      <siteMapNode title='Employee Dependents' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Dependents.aspx' />
+      <siteMapNode title='Employee Direct Manager' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_DirectManager.aspx' />
+      <siteMapNode title='Employee Fines' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Fines.aspx' />
+      <siteMapNode title='Employee Positions' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Positions.aspx' />
+      <siteMapNode title='Employee Sponsership' url='~\Pages\_Employees\Employees_Management\Employees_Renewals_Sponsership.aspx' />
+      <siteMapNode title='Employee Accounts Transactions' url='~\Pages\_Employees\Employees_Accounts\EmployeeAccounts_ImportTransactions.aspx' />
+      <siteMapNode title='Employee Accounts Alerts' url='~\Pages\_Employees\Employees_Accounts\EmployeeAccounts_ManageAlerts.aspx' />
+      <siteMapNode title='Employee Accounts Management' url='~\Pages\_Employees\Employees_Accounts\EmployeeAccounts_Management.aspx' />
+      <siteMapNode title='Employee Accounts Report' url='~\Pages\_Employees\Employees_Accounts\EmployeeAccounts_Report.aspx' />
+      <siteMapNode title='Employee Accounts Search' url='~\Pages\_Employees\Employees_Accounts\EmployeeAccounts_SalarySearch.aspx' />
+      <siteMapNode title='Employee Accounts Transaction Report' url='~\Pages\_Employees\Employees_Accounts\EmployeeAccounts_TransactionReport.aspx' />
+      <siteMapNode title='Employee Accounts Notification Management' url='~\Pages\_Employees\Employees_Accounts\Employees_Accounts_ManageAlerts.aspx' />
+      <siteMapNode title='Employee Accounts Monthly Sheets' url='~\Pages\_Employees\Employees_Accounts\EmployeesAccounts_ImportMonthlySheets.aspx' />
+      <siteMapNode title='Employee Login' url='~\Pages\_Employees\Employees_Management\EmployeeLogin.aspx' />
+      <siteMapNode title='Employee Roles' url='~\Pages\_Employees\Employees_Management\EmployeeRoles.aspx' />
+
+
+    </siteMapNode>
+
+  </siteMapNode>
+</siteMap>
